@@ -1,2 +1,2 @@
 # HW1_DA
-geting familar with pandas and pyspark  &amp; implimentation of tf-idf in persian wikipedia
+getting familiar with pandas and pyspark and implementation of tf-idf in Persian Wikipedia
